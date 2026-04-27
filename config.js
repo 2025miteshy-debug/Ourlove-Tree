@@ -1,16 +1,19 @@
 var config = {
-  name: "Miteshh ❤️",
-  loveName: "Meri Jaan",
-  startDate: "2025-01-14",
-  message: `
-Hey Jaan ❤️
+  names: ["Mitesh ❤️", "Meri Jaan 💖"],
 
-Yrr pta hai bahut yaad aati hai aapki aur bahut miss krta hu aapko
-bas hamesha yhi sochta reheta hu ke kab aap mere pass aajaoge 
-hamesha ke liye aur firr kabhi hame milne ka tension nhi hoga 
-saachi jaan bahut yaad aati hai aapki bahut jayada jldi se 
-aajan yrr merse milne bahut mn hai aapse milne ka muje aur 
-bahut yaad aa rhi hai aapki I reall miss youuuuuu Baachaw 🥺😩
-I really love you ❤️
-`
+  date: "2025-01-14 00:00:00",
+
+  lines: [
+    "Hey Jaan ❤️",
+    "Yrr pata hai bahut yaad aati hai aapki 😔",
+    "Aur main aapko bahut miss karta hu 💔",
+    "Bas hamesha yehi sochta rehta hu...",
+    "Kab aap mere paas aaoge ❤️",
+    "Hamesha ke liye aur fir kabhi hume milne ka tension nahi hoga 💫",
+    "Sacchi jaan bahut yaad aati hai aapki 🥺",
+    "Aapko bahut jaldi se milna hai 💖",
+    "Main aapse milne ka wait nahi kar pa raha 😭",
+    "I really miss youuuuu Baachaaw 🥺❤️",
+    "I really love you ❤️"
+  ]
 }
