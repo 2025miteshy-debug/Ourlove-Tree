@@ -5,7 +5,7 @@ var config = {
 
   lines: [
     "Hey Baachaw ❤️",
-    "Bahut yaad aati hai aapki 😔",
+    "Bahut yaad aati hai aapki 😔", 
     "Main aapko bahut miss karta hu 💔",
     "Kab aap mere paas aaoge ❤️",
     "Hamesha ke liye 💫",
